@@ -1,3 +1,6 @@
+这个项目挺牛逼
+
+
 # im2txt_demo
 im2txt + pretrained models + docker = easy tryout
 
